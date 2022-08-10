@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/staggered-animation-gsap/static/css/main.282f7e89.css",
+    "main.js": "/staggered-animation-gsap/static/js/main.db194818.js",
+    "static/js/787.7f2ad5ad.chunk.js": "/staggered-animation-gsap/static/js/787.7f2ad5ad.chunk.js",
+    "static/media/logo.svg": "/staggered-animation-gsap/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/staggered-animation-gsap/index.html",
+    "main.282f7e89.css.map": "/staggered-animation-gsap/static/css/main.282f7e89.css.map",
+    "main.db194818.js.map": "/staggered-animation-gsap/static/js/main.db194818.js.map",
+    "787.7f2ad5ad.chunk.js.map": "/staggered-animation-gsap/static/js/787.7f2ad5ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.282f7e89.css",
+    "static/js/main.db194818.js"
+  ]
+}
